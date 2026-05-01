@@ -33,7 +33,7 @@ Built for learning API integration, React hooks, and UI rendering for real-world
 ## 📂 Project Structure
 
 ```
-ReactJS-Advanced-WeatherAPI-App/
+ReactJS-Project-Advanced-WeatherAPI/
 │
 ├── src/
 │ ├── assets/
@@ -60,12 +60,12 @@ ReactJS-Advanced-WeatherAPI-App/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/react-weather-app.git
+git clone https://github.com/godhaniyaarbham2000-spec/ReactJS-Project-Advanced-WeatherAPI.git
 ```
 
 ### 2. Move to project folder
 ```
-cd react-weather-app
+cd ReactJS-Project-Advanced-WeatherAPI
 ```
 ### 3. Install dependencies
 ```
