@@ -1,7 +1,7 @@
 # 🌦️ React Weather App - Weather Forecast Project
 
 A modern **React + Vite Weather Application** that fetches real-time weather data using APIs.  
-Built for learning API integration, React hooks, and UI rendering for real-world use cases.
+Built for learning API integration, React hooks, and UI rendering for real-world use cases. 
 
 ---
 
